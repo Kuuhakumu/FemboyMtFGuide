@@ -128,5 +128,6 @@ The table above is just a **rough estimate**. You must verify your levels becaus
 2.  **Watsons (2nd Floor):** CeraVe, MizuMi, Vaseline Gluta-Hya, Veet.
 3.  **Beautrium (G Floor):** 4U2, Charmiss Blush, LA Girl Corrector.
 4.  **Pharmacy (3rd/4th Floor):** Minoxidil, Nizoral, Syringes.
+5.  **Shopee/Lazada:** Litterally have everything you need.
 
 > **Tip:** If you feel overwhelmed, just buy the **CeraVe Cleanser**, **Vaseline Gold**, and **LA Girl Corrector** first. Those make the biggest difference!
