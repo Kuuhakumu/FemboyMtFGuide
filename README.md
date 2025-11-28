@@ -29,6 +29,20 @@
 | **8 mg** | 0.20 mL | **20 Units** |
 
 **Technique (SubQ):** Pinch belly or thigh fat $\rightarrow$ Inject at 45° angle $\rightarrow$ Push slow.
+### ⚠️ IMPORTANT: Don't Just Trust the Cheat Sheet!
+The table above is just a **rough estimate**. You must verify your levels because everyone's body is different.
+
+**1. Use the "E Simulator"**
+* **What is it?** An online tool (search: "Injectable Estradiol Simulator") that visualizes how hormones drop in your blood over time.
+* **Why?** It is much more accurate than a static list. Input your dose (e.g., 6mg) and interval (e.g., 7 days) to see if your levels stay high enough to suppress Testosterone (usually >200 pg/mL at the lowest point).
+
+**2. The Blood Test Rule (Non-Negotiable)**
+* **Frequency:** You **must** take a blood test every **3 months** for the first year.
+* **What to test:**
+    * **E2 (Estradiol):** Should be approx 200-300 pg/mL at "trough" (right before your next shot).
+    * **Total Testosterone:** Should be suppressed (<50 ng/dL) without needing blockers.
+    * **Liver Function:** To ensure you are healthy.
+* **Where in BKK:** any Private lab nearby.
 
 ---
 
