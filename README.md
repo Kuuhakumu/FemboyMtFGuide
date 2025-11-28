@@ -6,8 +6,8 @@
 ---
 
 ## 🏥 PART 1: HRT (The "Mono E" Injection Guide)
-**Goal:** Suppress Testosterone naturally using Estradiol Enanthate (EEn) Monotherapy.
-*I usually get it from opengatelabs, you can take a look at HRT sources here: [https://hrtcafe.net](https://hrtcafe.net/Estrogen/estradiol_injections.html)
+* **Goal:** Suppress Testosterone naturally using Estradiol Enanthate (EEn) Monotherapy.
+* I usually get it from opengatelabs, you can take a look at HRT sources here: [https://hrtcafe.net](https://hrtcafe.net/Estrogen/estradiol_injections.html)
 ### 🛒 Shopping List (Pharmacy / Lazada / Shopee)
 * [ ] **Insulin Syringes (1mL or 0.5mL)**
     * **Spec:** 27G or 29G fixed needle.
